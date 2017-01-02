@@ -18,4 +18,10 @@ Very basic quine.
 
 ### quine2
 
-Quine using lists, list-comprehension, and ternary operator.
+Using a list, list-comprehension, and ternary operator.
+
+***
+
+### quine3
+
+Using a longer list, `for` loop, and list-comprehension
