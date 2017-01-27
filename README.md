@@ -25,3 +25,11 @@ Using a list, list-comprehension, and ternary operator.
 ### quine3
 
 Using a longer list, `for` loop, and list-comprehension
+
+***
+
+### quine4
+
+Outputs its own sourcecode to a browser.
+
+Run script via `python3 quine4.py` then load http://localhost:8888/. Save the resulting page and compare.
