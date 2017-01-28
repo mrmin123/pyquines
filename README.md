@@ -33,3 +33,5 @@ Using a longer list, `for` loop, and list-comprehension
 Outputs its own sourcecode to a browser.
 
 Run script via `python3 quine4.py` then load http://localhost:8888/. Save the resulting page and compare.
+
+(Technically this isn't a quine because it outputs other things as well but it was a fun exercise anyway)
